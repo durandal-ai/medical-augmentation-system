@@ -12,7 +12,7 @@ Medical data augmentation system that can be deployed fast and easy to use for d
 1. Загрузите этот notebook в локальную среду выполнения или облачную, например, Google Colab
 2. Выполните все ячейки последовательно
 
-## Параметры обучения
+## Стандартные параметры обучения
 - DCGAN: 30 эпох
 - DDPM: 15 эпох, 1000 шагов диффузии
 - StyleGAN: 30 эпох
