@@ -3,11 +3,13 @@ Medical data augmentation system that can be deployed fast and easy to use for d
 """
 # Инструкция по использованию
 
-Этот Jupyter Notebook предназначен для запуска в Google Colab Pro на GPU A100 и содержит
-систему аугментации медицинских изображений с разрешением 128x128 с использованием DCGAN, DDPM и StyleGAN.
+Система предназначена для развёртывания и запуска на системах с мимнимальными требованиями:
+
+
+Содержит модели аугментации медицинских изображений с разрешением 128x128 с использованием типов DCGAN, DDPM и StyleGAN.
 
 ## Настройка окружения
-1. Загрузите этот notebook в Google Colab
+1. Загрузите этот notebook в локальную среду выполнения или облачную, например, Google Colab
 2. Выберите Runtime -> Change runtime type -> Hardware accelerator: GPU (A100)
 3. Выполните все ячейки последовательно
 
