@@ -10,8 +10,7 @@ Medical data augmentation system that can be deployed fast and easy to use for d
 
 ## Настройка окружения
 1. Загрузите этот notebook в локальную среду выполнения или облачную, например, Google Colab
-2. Выберите Runtime -> Change runtime type -> Hardware accelerator: GPU (A100)
-3. Выполните все ячейки последовательно
+2. Выполните все ячейки последовательно
 
 ## Параметры обучения
 - DCGAN: 30 эпох
